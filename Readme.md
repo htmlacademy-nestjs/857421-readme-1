@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
-* Студент: [Дмитрий Черкашин](https://up.htmlacademy.ru/nodejs-2-individual/1/user/857421).
-* Наставник: `Неизвестно`.
+- Студент: [Дмитрий Черкашин](https://up.htmlacademy.ru/nodejs-2-individual/1/user/857421).
+- Наставник: [Евгений Наумов](https://htmlacademy.ru/profile/naumov_evg).
 
 ---
 
